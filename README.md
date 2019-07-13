@@ -28,6 +28,20 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Project Description
+
+E-Commerce web application
+
+## Project Learning Goals
+
+- Role Based Authentication 
+- NoSQL Database, probably MongoDB 
+- Explore testing 
+- Explore Deployment/DevOPs
+- React/Redux frontend in TypeScript
+- React Hooks
+- SSR with NestJS ? 
+
 ## Installation
 
 ```bash
